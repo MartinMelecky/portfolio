@@ -62,8 +62,7 @@ body {
     color: purple;
   }
   
-  h1,
-  h2 {
+  h1, h2 {
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
     text-align: center;
@@ -148,13 +147,13 @@ body {
   .projects-section {
     text-align: center;
     padding: 10rem 2rem;
-    background: #2BE1F0;
+    background: #ffffff;
   }
   
   .projects-section-header {
     max-width: 640px;
     margin: 0 auto 6rem auto;
-    border-bottom: 0.2rem #2BE1F0;
+    border-bottom: 0.2rem #ffffff;
   }
   
   @media (max-width: 28.75em) {
